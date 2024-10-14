@@ -18,7 +18,9 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import DataLoader, TensorDataset
-sys.path.append('/home/giovanni/dtan')
+# !!!!!! CHANGE TO YOUR dtan FOLDER !!!!
+sys.path.append('/YOUR/PATH/TO/dtan')
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 from DTAN.DTAN_layer import DTAN as dtan_model
 
 
