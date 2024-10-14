@@ -1,7 +1,7 @@
 # Codes tips
 
-All codes were tested with Python version 3.10.12; if you have Ubuntu installed, you can simply run them by opening a terminal in this folder and then type one of the followings commands <br>
-> >>python time_gmr.py <br>
+All codes were tested with Python version 3.10.12; if you have Ubuntu installed, you can simply run them by opening a terminal in this folder and then type one of the followings commands: <br>
+> __>>python time_gmr.py__ <br>
 > >>python dtw_gmr.py <br>
 > >>python ss_gmr.py <br>
 > >>python ss_dtan.py <br>
