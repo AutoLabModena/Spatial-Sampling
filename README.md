@@ -15,6 +15,15 @@ If you find the algorithms useful for your work/research, please cite:
 }
 ```
 
+## Important Resources
+
+This repository is partially based on the following works:
+
+- Calinon, Sylvain. "A tutorial on task-parameterized movement learning and retrieval." Intelligent service robotics 9 (2016): 1-29.
+- Shapira Weber, Ron A., et al. "Diffeomorphic temporal alignment nets." Advances in neural information processing systems 32 (2019).
+- Tavenard, Romain, et al. "Tslearn, a machine learning toolkit for time series data." Journal of machine learning research 21.118 (2020): 1-6.
+
+
 ## Questions & Suggestions
 For any doubt, question or suggestion, please feel free to email at:
 __giovanni.braglia@unimore.it__
