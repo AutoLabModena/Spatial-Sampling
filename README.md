@@ -1,6 +1,7 @@
 # Spatial-Sampling
 
-This repository provides codes and examples of use of the Spatial Sampling (SS) algorithm.
+This repository provides codes and examples of use of the Spatial Sampling (SS) algorithm. <br>
+The SS algorithm takes as input a time serie and provides as output the correspondig geometric path, filtering time discrepancies as speed variations or pauses. It does so by filtering the points on the input trajectory such that the obtained samples are equally-distanced, given a desired distance specified by a parameter $\delta$.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4627ec6-be7a-4cf0-8958-7bca90fa15e5" width="300" />
@@ -11,7 +12,7 @@ This repository provides codes and examples of use of the Spatial Sampling (SS) 
 From left to right, the figures above depict the working principle of the SS algorithm for the 1D, 2D and 3D cases. The orginal trajectory and the spatially-sampled points are shown, respectively, in black and red. <br>
 By imposing the same distance $\delta$ between consecutive samples, the SS algorithm computes a new version of the original trajectory, which consists of its relative geometric path. <br>
 
-The algorithms are part of the paper entitled **Robot Skills Synthesis from Multiple Demonstration via Spatial Sampling** by __G.Braglia, D.Tebaldi, A.E.Lazzaretti and L.Biagiotti__, from University of Modena and Reggio Emilia and Federal Technological University of Paranà. <br>
+The algorithms are part of the paper entitled **Robot Skills Synthesis from Multiple Demonstration via Spatial Sampling** by __G.Braglia, D.Tebaldi, A.E.Lazzaretti and L.Biagiotti__, from University of Modena and Reggio Emilia and Federal Technological University of Paranà. The repository also gathers results from the paper, providing additional material to validade the obtained results.<br>
 If you find the algorithms useful for your work/research, please cite:
 ```bibtex
 @misc{braglia2024phasefreedynamicmovementprimitives,
