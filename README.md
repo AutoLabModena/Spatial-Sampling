@@ -1,5 +1,6 @@
 # Spatial-Sampling
 
+This repository provides codes and examples of use of the Spatial Sampling (SS) algorithm.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4627ec6-be7a-4cf0-8958-7bca90fa15e5" width="300" />
@@ -7,7 +8,8 @@
   <img src="https://github.com/user-attachments/assets/0f1cf840-826b-42cf-8296-0f41d75b8369" width="280" />
 </p>
 
-
+From left to right, the figures above depict the working principle of the SS algorithm for the 1D, 2D and 3D cases. The orginal trajectory and the spatially-sampled points are shown, respectively, in black and red. <br>
+By imposing the same distance $\delta$ between consecutive samples, the SS algorithm computes a new version of the original trajectory, which consists of its relative geometric path. <br>
 
 The algorithms are part of the paper entitled **Robot Skills Synthesis from Multiple Demonstration via Spatial Sampling** by __G.Braglia, D.Tebaldi, A.E.Lazzaretti and L.Biagiotti__, from University of Modena and Reggio Emilia and Federal Technological University of Paranà. <br>
 If you find the algorithms useful for your work/research, please cite:
@@ -23,6 +25,12 @@ If you find the algorithms useful for your work/research, please cite:
 }
 ```
 
+## Folders
+
+- **Panda_CoManipulation_Data/** : dataset files in .mat and .npy format, for each symbol a .pdf file depicting the respective symbol is included;
+- **load_example.m** : a MATLAB code to plot symbol recordings;
+- **load_example.py** : a Python code to plot symbol recordings;
+
 ## Important Resources
 
 This repository is partially based on the following works:
@@ -30,7 +38,8 @@ This repository is partially based on the following works:
 - Calinon, Sylvain. "A tutorial on task-parameterized movement learning and retrieval." Intelligent service robotics 9 (2016): 1-29.
 - Shapira Weber, Ron A., et al. "Diffeomorphic temporal alignment nets." Advances in neural information processing systems 32 (2019).
 - Tavenard, Romain, et al. "Tslearn, a machine learning toolkit for time series data." Journal of machine learning research 21.118 (2020): 1-6.
-
+- Braglia, Tebaldi, Biagiotti, "Phase-free Dynamic Movement Primitives Applied to Kinesthetic Guidance in Robotic Co-manipulation Tasks", ArXiv.
+- Panda Co-Manipulation Dataset, github repository: https://github.com/AutoLabModena/Panda-Co-Manipulation-Dataset.git
 
 ## Questions & Suggestions
 For any doubt, question or suggestion, please feel free to email at:
