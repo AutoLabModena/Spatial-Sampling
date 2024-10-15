@@ -28,9 +28,10 @@ If you find the algorithms useful for your work/research, please cite:
 
 ## Folders
 
-- **Panda_CoManipulation_Data/** : dataset files in .mat and .npy format, for each symbol a .pdf file depicting the respective symbol is included;
-- **load_example.m** : a MATLAB code to plot symbol recordings;
-- **load_example.py** : a Python code to plot symbol recordings;
+- **Approximation_Comparizons_Codes/** : Python codes containing to reproduce the results obtained for the approximation analysis studied in the paper;
+- **Metrics/**: auxiliary pdf to explain the metrics used in the experimental results of the paper;
+- **Panda_CoManipulation_Dataset_Results/** : figure showcasing the results of the approximation comparizons codes computed for each element of the Panda Co-Manipulation Dataset;
+- **Spatial_Sampling_Algorithm/** : a Python and MATLAB implementation of the SS algorithm with example scripts.
 
 ## Important Resources
 
