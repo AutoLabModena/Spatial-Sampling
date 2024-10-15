@@ -3,9 +3,10 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4627ec6-be7a-4cf0-8958-7bca90fa15e5" width="300" />
-  <img src="https://github.com/user-attachments/assets/513485bf-0f8c-42db-bd8b-fedadf7f5ff8" width="200" />
-  <img src="https://github.com/user-attachments/assets/389f8f20-aabe-4c82-baed-3ecbb25f09a9" width="290" />
+  <img src="https://github.com/user-attachments/assets/c45a2497-a88c-4534-83d6-dc0d70b2ee2e" width="200" />
+  <img src="https://github.com/user-attachments/assets/0f1cf840-826b-42cf-8296-0f41d75b8369" width="290" />
 </p>
+
 
 
 The algorithms are part of the paper entitled **Robot Skills Synthesis from Multiple Demonstration via Spatial Sampling** by __G.Braglia, D.Tebaldi, A.E.Lazzaretti and L.Biagiotti__, from University of Modena and Reggio Emilia and Federal Technological University of Paranà. <br>
