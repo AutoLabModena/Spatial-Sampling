@@ -1,6 +1,13 @@
 # Spatial-Sampling
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b4627ec6-be7a-4cf0-8958-7bca90fa15e5" width="200" />
+  <img src="https://github.com/user-attachments/assets/513485bf-0f8c-42db-bd8b-fedadf7f5ff8" width="200" />
+  <img src="https://github.com/user-attachments/assets/389f8f20-aabe-4c82-baed-3ecbb25f09a9" width="200" />
+</p>
+
+
 The algorithms are part of the paper entitled **Robot Skills Synthesis from Multiple Demonstration via Spatial Sampling** by __G.Braglia, D.Tebaldi, A.E.Lazzaretti and L.Biagiotti__, from University of Modena and Reggio Emilia and Federal Technological University of Paranà. <br>
 If you find the algorithms useful for your work/research, please cite:
 ```bibtex
