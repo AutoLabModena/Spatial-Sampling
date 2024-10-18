@@ -12,17 +12,17 @@ The SS algorithm takes as input a time serie and provides as output the correspo
 From left to right, the figures above depict the working principle of the SS algorithm for the 1D, 2D and 3D cases. The orginal trajectory and the spatially-sampled points are shown, respectively, in black and red. <br>
 By imposing the same distance $\delta$ between consecutive samples, the SS algorithm computes a new version of the original trajectory, which consists of its relative geometric path. <br>
 
-The algorithms are part of the paper entitled **Robot Skills Synthesis from Multiple Demonstration via Spatial Sampling** by __G.Braglia, D.Tebaldi, A.E.Lazzaretti and L.Biagiotti__, from University of Modena and Reggio Emilia and Federal Technological University of Paranà. The repository also gathers results from the paper, providing additional material to validade the obtained results.<br>
+The algorithms are part of the paper entitled **Arc-Length-Based Warping for Robot Skill Synthesis from Multiple Demonstrations** by __G.Braglia, D.Tebaldi, A.E.Lazzaretti and L.Biagiotti__, from University of Modena and Reggio Emilia and Federal Technological University of Paranà. The repository also gathers results from the paper, providing additional material to validade the obtained results.<br>
 If you find the algorithms useful for your work/research, please cite:
 ```bibtex
-@misc{braglia2024phasefreedynamicmovementprimitives,
-      title={Phase-free Dynamic Movement Primitives Applied to Kinesthetic Guidance in Robotic Co-manipulation Tasks}, 
-      author={Giovanni Braglia and Davide Tebaldi and Luigi Biagiotti},
+@misc{braglia2024arclengthbasedwarpingrobotskill,
+      title={Arc-Length-Based Warping for Robot Skill Synthesis from Multiple Demonstrations}, 
+      author={Giovanni Braglia and Davide Tebaldi and André Eugenio Lazzaretti and Luigi Biagiotti},
       year={2024},
-      eprint={2401.08238},
+      eprint={2410.13322},
       archivePrefix={arXiv},
       primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2401.08238}, 
+      url={https://arxiv.org/abs/2410.13322}, 
 }
 ```
 
