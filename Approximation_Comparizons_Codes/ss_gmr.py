@@ -22,7 +22,7 @@ gamma = delta*1e-2
 ss_series = []
 for i in range(6):
   pos = symbol_data[i]['pos']
-  t = np.linspace(0, 1, len(serie.T) )
+  t = np.linspace(0, 1, len(pos.T) )
 
   out = ss(t, pos, delta, gamma)
   tn = np.array( out.tn ).reshape(-1,1)
