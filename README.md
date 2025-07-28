@@ -40,8 +40,10 @@ This repository is partially based on the following works:
 - Calinon, Sylvain. "A tutorial on task-parameterized movement learning and retrieval." Intelligent service robotics 9 (2016): 1-29.
 - Shapira Weber, Ron A., et al. "Diffeomorphic temporal alignment nets." Advances in neural information processing systems 32 (2019).
 - Tavenard, Romain, et al. "Tslearn, a machine learning toolkit for time series data." Journal of machine learning research 21.118 (2020): 1-6.
-- Braglia, Tebaldi, Biagiotti, "Phase-free Dynamic Movement Primitives Applied to Kinesthetic Guidance in Robotic Co-manipulation Tasks", ArXiv.
+- Braglia, Tebaldi, Biagiotti, "Phase-independent Dynamic Movement Primitives with applications to human–robot co-manipulation and time optimal planning", Robotics and Autonomous Systems 194 (2025).
 - Panda Co-Manipulation Dataset, github repository: https://github.com/AutoLabModena/Panda-Co-Manipulation-Dataset.git
+
+
 
 ## Questions & Suggestions
 For any doubt, question or suggestion, please feel free to email at:
