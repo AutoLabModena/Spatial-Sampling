@@ -15,15 +15,16 @@ By imposing the same distance $\delta$ between consecutive samples, the SS algor
 The algorithms are part of the paper entitled **Arc-Length-Based Warping for Robot Skill Synthesis from Multiple Demonstrations** by __G.Braglia, D.Tebaldi, A.E.Lazzaretti and L.Biagiotti__, from University of Modena and Reggio Emilia and Federal Technological University of Paranà. The repository also gathers results from the paper, providing additional material to validade the obtained results.<br>
 If you find the algorithms useful for your work/research, please cite:
 ```bibtex
-@misc{braglia2024arclengthbasedwarpingrobotskill,
-      title={Arc-Length-Based Warping for Robot Skill Synthesis from Multiple Demonstrations}, 
-      author={Giovanni Braglia and Davide Tebaldi and André Eugenio Lazzaretti and Luigi Biagiotti},
-      year={2024},
-      eprint={2410.13322},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2410.13322}, 
-}
+@INPROCEEDINGS{11245947,
+  author={Braglia, Giovanni and Tebaldi, Davide and Lazzaretti, André E. and Biagiotti, Luigi},
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Arc-Length-Based Warping for Robot Skill Synthesis from Multiple Demonstrations}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={8111-8118},
+  keywords={Motion planning;Accuracy;Tracking;Heuristic algorithms;Robustness;Trajectory;Recording;Synchronization;Robots;Intelligent robots;Learning from Demonstration;Motion and Path Planning;Datasets for Human Motion},
+  doi={10.1109/IROS60139.2025.11245947}}
 ```
 
 ## Folders
